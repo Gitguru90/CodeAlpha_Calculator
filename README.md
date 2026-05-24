@@ -18,6 +18,9 @@ This project was developed as part of the Frontend Development Internship at Cod
 - HTML5
 - CSS3
 - JavaScript
+  
+ ## Live Demo
+ https://gitguru90.github.io/CodeAlpha_Calculator/
 
 ## Folder Structure
 
